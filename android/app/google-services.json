@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440209417924",
+    "project_id": "wslc-256",
+    "storage_bucket": "wslc-256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440209417924:android:9e203b24cb3ec8fd90cb91",
+        "android_client_info": {
+          "package_name": "com.example.wslc_256"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zhmd9nYVjVWebje9HNLSGkpLrIt-MDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
